@@ -66,7 +66,7 @@ const StripeCheckout = ({
         stripeKey="pk_test_51I1r6aActpcVvEoyGU5bLAwCknicuJsjTftyI3gNC4RYh86HCugPSPWiSsKpxbCaHOmzkwUBXCc36ntT7gbqJSx8006pez3V6S"
         token={makePayment}
         amount={getFinalAmount() * 100}
-        name="Buy Tshirts"
+        name="Buy Products"
         shippingAddress
         billingAddress
       >

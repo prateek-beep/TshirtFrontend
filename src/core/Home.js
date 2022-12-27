@@ -27,12 +27,16 @@ export default function Home() {
   }, []);
 
   return (
-    <Base title="Home Page" description="Welcome to the Tshirt Store">
+    <Base title="FabricaWORLD" description="All your products under one roof">
       <div className="row text-center">
         
       <div className="container-fluid  text-white text-center  ">
       
-        <h1 >All T-shirts</h1>
+        <h6 >Established in the year 2007, at Nashik, Maharashtra, India, We “SB ENGINEERING WORKS” are one of the leading companies engaged in offering job works services for different industrial works like VMC operations, CNC operations, Milling operations, Grinding operations, Drilling operations,Quality testing etc. Our visionary business approach as well as service backup by experienced industry professionals allows us to deliver exceptional services solutions as demanded by the industrial customers. Further, the quality support provided by latest technology-based process machinery also allows us to deliver quality end solutions.
+
+Today, our competitive and consistent business approach has helped us to emerges as a leading name in our industry sector. Further, our capability to deliver our industrial clients highly customized end solutions as per their specific process needs at competitive prices has also helped us to emerge as a leading services provider in our industry sector.
+</h6>
+
        
         </div>
         
